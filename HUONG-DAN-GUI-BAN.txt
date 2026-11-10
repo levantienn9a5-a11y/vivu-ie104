@@ -1,0 +1,22 @@
+HUONG DAN CHAY VIVU TREN MAY KHAC
+
+1. Bam chuot phai vao ZIP, chon Extract All / Giai nen tat ca.
+2. May nhan can co Python 3.10 tro len. Tai Python tai:
+   https://www.python.org/downloads/windows/
+   Bat Add Python to PATH neu trinh cai dat co tuy chon nay.
+3. Mo thu muc vivu da giai nen, nhap dup CHAY-WEB.bat.
+4. Giu cua so may chu mo. Trinh duyet se mo http://localhost:8000.
+5. Neu cong 8000 bi chiem, mo terminal trong vivu va chay:
+   py -3 server.py --port 8001 --open-browser
+
+KHONG gui rieng CHAY-WEB.bat. Can co server.py va thu muc public.
+KHONG chay truc tiep file ben trong cua so xem ZIP.
+
+Tai khoan mau:
+- Khach: khach@vivu.vn / Khach@123
+- Quan tri: admin@vivu.vn / Admin@123
+Co the dang ky tai khoan rieng.
+
+Goi nay khong kem du lieu tai khoan va don ca nhan cua may gui.
+Website tu tao lich xe va du lieu mau khi chay lan dau.
+localhost la may dang chay website, khong phai duong dan cong khai.
